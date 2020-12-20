@@ -1,0 +1,12 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = background
+  requiredmods = optifine
+}
+
+customization {
+  action = animatebackground
+  name = my_animation
+}
